@@ -1,0 +1,7 @@
+hard
+3,5,9
+new_dataset_1.txt
+/usr/local/Cellar/hadoop/2.8.1/libexec/share/hadoop/tools/lib/hadoop-streaming-2.8.1.jar
+/
+kMeans_output_folder
+centroids_and_features.txt
